@@ -4,11 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20ROHITSIR%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Code%20Enthusiast%20%7C%20Building%20Cool%20Things&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
+<a href="[https://git.io/typing-svg](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Learning+to+code+one+bug+at+a+time+🐛;Turning+coffee+into+code+☕;Open+source+explorer+🚀;Always+building%2C+always+learning+💡" alt="Typing SVG"/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </a>
-
 <br/>
 
 <!-- Social Badges -->
