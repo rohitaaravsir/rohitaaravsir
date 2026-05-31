@@ -6,6 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Learning+to+code+one+bug+at+a+time+🐛;Turning+coffee+into+code+☕;Open+source+explorer+🚀;Always+building%2C+always+learning+💡" alt="Typing SVG"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </a>
 
 <br/>
